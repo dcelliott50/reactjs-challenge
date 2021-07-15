@@ -69,3 +69,9 @@ The card on the right, "Historical Price of Bitcoin," is currently empty. Collec
 ### 3) Show Aggregate Values for Multiple Weeks
 
 Improve the output for the "Historical Price of Bitcoin" card by showing weekly aggregate results (mean, median, highest and lowest) for up to 4 weeks. Have the main `<App />` component pass the number of weeks to the `<HistoricalPriceCard />` sub-component.
+
+#### Example:
+
+Below is an example of what the app might look like when completed.
+
+![Finished Example](/data/finished-app.png)
