@@ -58,6 +58,8 @@ This project is a simple single-page application (SPA) that reads the price of B
 
 The API used comes from CoinDesk. Its documentation can be found here: https://www.coindesk.com/coindesk-api.
 
+Start here: `application/src/App.js`
+
 ### 1) Add the Euro Price to the "Price of Bitcoin" Card
 
 The card on the left, "Price of Bitcoin," currently allows the user to select the current price in US Dollars or British Pound Sterlings. Add the option to show the price in Euro as well.
